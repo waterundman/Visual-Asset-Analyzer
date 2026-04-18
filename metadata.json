@@ -1,0 +1,6 @@
+{
+  "name": "Visual Asset Analyzer",
+  "description": "An app to help users visualize and generate detailed descriptions for creative works, focusing on image captioning and analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
